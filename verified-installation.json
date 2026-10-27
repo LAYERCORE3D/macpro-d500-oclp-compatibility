@@ -1,0 +1,22 @@
+{
+  "verifiedDate": "2026-10-27",
+  "model": "MacPro6,1",
+  "gpus": "2 x AMD FirePro D500",
+  "macOS": "15.8.1",
+  "build": "24H32",
+  "installedFilesMatchOfficialManifest": true,
+  "installedFiles": {
+    "Contents/Info.plist": "88bccfbe38e1b7e1b4a5b1986b1a497441de4dd549a16be3975f1f97d83228aa",
+    "Contents/PkgInfo": "2dd3e1e3827dc32b1cebae2ef19750f5019320fe632b9641dcad8566044926b1",
+    "Contents/version.plist": "e80f7398a6b6eaf88ad2a467914265d4b0e18b253babdce21b442346852520fe",
+    "Contents/_CodeSignature/CodeResources": "717b5cb0ff5f7988a89ab109649ffc74a110530fe7398653cadcb6258eb1789d",
+    "Contents/MacOS/impostor.dylib": "47f0ef9ee4060d26086674af62129d85a382279011811b92655ac9439fde7794",
+    "Contents/MacOS/AMDMTLBronzeDriver": "18ffebf683dc50cf9dfd6f4e2e234f38f6aca57b3956372b552974c2c223d181",
+    "Contents/Resources/SI-BronzeStatistics-counters.plist": "00b0dc8e53a6ab33dd32d67d72cbf1a199695c7a1d6ad87fd64c16d165456fd0",
+    "Contents/Resources/BronzeStatistics-derived.js": "2de6a74a1b1c3fc0ec2ad4bc01bbb4a8dd9ab45d8657ce13c831f7858d59f072",
+    "Contents/Resources/BronzeStatistics-counters.plist": "f59572115d7c6ec0d6c77fa43ceb55bb900148b1d6bd4cdc752215c0b7fb514f",
+    "Contents/Resources/BronzeStatistics-analysis.js": "581a5922d6f37c6fab22619934861a672bd84762daf52571063e998435d5af0b"
+  },
+  "normalBootConfirmedByOwner": true,
+  "prototypeInstalled": false
+}

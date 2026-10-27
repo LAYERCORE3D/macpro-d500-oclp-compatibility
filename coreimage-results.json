@@ -1,0 +1,89 @@
+{
+  "exit": 0,
+  "results": [
+    {
+      "gpu": 4294969342,
+      "filter": "CIColorInvert",
+      "maxDiff": 1,
+      "meanDiff": 0.0234375,
+      "ok": true
+    },
+    {
+      "gpu": 4294969342,
+      "filter": "CIColorControls",
+      "maxDiff": 1,
+      "meanDiff": 0.0364990234375,
+      "ok": true
+    },
+    {
+      "gpu": 4294969342,
+      "filter": "CIGaussianBlur",
+      "maxDiff": 1,
+      "meanDiff": 0.091552734375,
+      "ok": true
+    },
+    {
+      "gpu": 4294969342,
+      "filter": "CISepiaTone",
+      "maxDiff": 1,
+      "meanDiff": 0.03436279296875,
+      "ok": true
+    },
+    {
+      "gpu": 4294969342,
+      "filter": "CIExposureAdjust",
+      "maxDiff": 1,
+      "meanDiff": 0.0234375,
+      "ok": true
+    },
+    {
+      "gpu": 4294969342,
+      "filter": "CISourceOverCompositing",
+      "maxDiff": 0,
+      "meanDiff": 0,
+      "ok": true
+    },
+    {
+      "gpu": 4294969339,
+      "filter": "CIColorInvert",
+      "maxDiff": 1,
+      "meanDiff": 0.0234375,
+      "ok": true
+    },
+    {
+      "gpu": 4294969339,
+      "filter": "CIColorControls",
+      "maxDiff": 1,
+      "meanDiff": 0.0364990234375,
+      "ok": true
+    },
+    {
+      "gpu": 4294969339,
+      "filter": "CIGaussianBlur",
+      "maxDiff": 1,
+      "meanDiff": 0.091552734375,
+      "ok": true
+    },
+    {
+      "gpu": 4294969339,
+      "filter": "CISepiaTone",
+      "maxDiff": 1,
+      "meanDiff": 0.03436279296875,
+      "ok": true
+    },
+    {
+      "gpu": 4294969339,
+      "filter": "CIExposureAdjust",
+      "maxDiff": 1,
+      "meanDiff": 0.0234375,
+      "ok": true
+    },
+    {
+      "gpu": 4294969339,
+      "filter": "CISourceOverCompositing",
+      "maxDiff": 0,
+      "meanDiff": 0,
+      "ok": true
+    }
+  ]
+}
